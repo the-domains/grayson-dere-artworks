@@ -1,0 +1,23 @@
+name: Grayson Dere Artworks
+favicon: null
+layout_spectrum: 0.6979770320467651
+typography_spectrum: 0.9170232629403472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.08520034956745803
+  lightness: 0.7898704779800028
+  saturation: 0.8237664562184364
+  rhythmicContrast: 0.009149141609668732
+purpose: []
