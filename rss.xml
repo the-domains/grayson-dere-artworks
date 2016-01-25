@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Grayson Dere Artworks]]></title>
         <description><![CDATA[Grayson Dere Artworks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grayson-dere-artworks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 02:37:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 22:01:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grayson-dere-artworks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9c4c4a6-9018-4457-9111-a4d76c39bc2f.jpg">]]></description>
-            <link>undefined98ea07ee-3957-45d5-b78c-c49b55e7fe9e/index.html</link>
+            <title><![CDATA[Blind Desire]]></title>
+            <description><![CDATA[<article><h1>Blind Desire</h1><p>Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/468b584a41156443479d66cd611ad62f288f103d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/grayson-dere-artworks/98ea07ee-3957-45d5-b78c-c49b55e7fe9e/index.html</link>
             <guid isPermaLink="false">98ea07ee-3957-45d5-b78c-c49b55e7fe9e</guid>
-            <pubDate>Mon, 16 Nov 2015 02:37:10 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 22:01:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
